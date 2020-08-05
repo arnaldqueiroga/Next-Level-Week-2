@@ -51,10 +51,16 @@ textarea {
     color: var(--color-text-base);
 }
 
-/* Configuração de responsividade */
+/* Configuração de responsividade para Mobile*/
 #container {
     width: 90vw;  /* Largura */
     max-width: 700px;
+}
+
+@media (min-width: 700px) {
+    :root {
+        font-size: 62.5%; /* todo 1rem vai ser relativo a 10px */
+    }
 }
 
 
