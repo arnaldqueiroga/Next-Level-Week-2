@@ -16,6 +16,6 @@ Construção de uma Landing Page chamada Proffy. Que funciona como uma plataform
 * CSS
 * HTML5
 * Node.js
-* SQL
+* SQLite
 
 ---
