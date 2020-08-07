@@ -1,0 +1,17 @@
+{
+  "name": "nlw2",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "bugs": {
+    "url": "https://github.com/arnaldqueiroga/Next-Level-Week-2/issues"
+  },
+  "homepage": "https://github.com/arnaldqueiroga/Next-Level-Week-2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
