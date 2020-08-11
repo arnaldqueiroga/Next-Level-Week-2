@@ -19,3 +19,18 @@ Construção de uma Landing Page chamada Proffy. Que funciona como uma plataform
 * SQLite
 
 ---
+
+# Como executar o projeto
+
+# Clonar o repositório
+git clone 
+
+# Entrar no diretório
+cd proffy-discovery
+
+# Baixar as dependências
+npm i
+
+# Executar o servidor
+npm run dev
+Feito isso, abra o seu navegador e acesse http://localhost:5500/
