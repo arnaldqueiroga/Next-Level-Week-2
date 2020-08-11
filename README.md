@@ -4,7 +4,7 @@ Na 2º edição da Next Level Week, que é o maior evento de programação onlin
 
 ---
 
-# 📝 Sobre o Projeto :pencil2:
+# 📝 Sobre o Projeto 
 
 Construção de uma Landing Page chamada Proffy. Que funciona como uma plataforma de estudos on-line, conectando de forma dinâmica estudantes e professores. Toda a interface da aplicação é responsiva, construída através de um conceito chamado Mobile First, onde o intuito inicial é ajustar as telas primeiramente em formato para dispositivos móveis, para depois realizar as alterações em formato desktop.
 
@@ -20,7 +20,7 @@ Construção de uma Landing Page chamada Proffy. Que funciona como uma plataform
 
 ---
 
-# Como executar o projeto
+# :computer: Como executar o projeto
 
 Clonar o repositório
 git clone https://github.com/arnaldqueiroga/Next-Level-Week-2.git
