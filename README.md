@@ -22,15 +22,15 @@ Construção de uma Landing Page chamada Proffy. Que funciona como uma plataform
 
 # Como executar o projeto
 
-# Clonar o repositório
-git clone 
+Clonar o repositório
+git clone https://github.com/arnaldqueiroga/Next-Level-Week-2.git
 
-# Entrar no diretório
+Entrar no diretório
 cd proffy-discovery
 
-# Baixar as dependências
+Baixar as dependências
 npm i
 
-# Executar o servidor
+Executar o servidor
 npm run dev
 Feito isso, abra o seu navegador e acesse http://localhost:5500/
