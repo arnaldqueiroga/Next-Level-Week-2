@@ -24,7 +24,7 @@ Construção de uma Landing Page chamada Proffy. Que funciona como uma plataform
 # :computer: Como executar o projeto
 
 ```
-# Clonar o repositório
+**# Clonar o repositório**
 git clone https://github.com/arnaldqueiroga/Next-Level-Week-2.git
 
 # Entrar no diretório do projeto
